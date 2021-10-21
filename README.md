@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Freshman483
-- 👀 I’m interested in learning programming languages such as c++,java,python and web development
+- 👀 I’m interested in learning programming languages such as c++,c#,java,python and web development
 - 🌱 I’m currently learning  Java,python,html 
 - 💞️ I’m looking to collaborate on with any experienced expert or dummy like me so that I can gain what am lacking and if possible both of us, I will  appreciate
 - 📫 How to reach me  phone number.+254757450727,email (tranzeer@gmail)
