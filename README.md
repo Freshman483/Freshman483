@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Freshman483
+- 👋 Hi, I’m Shimita Douglas
 - 👀 I’m interested in learning programming languages such as c++,c#,java,python and web development and if  given by chance more I will be interested in
 - 
 - 🌱 I’m currently learning  Java,python,html 
