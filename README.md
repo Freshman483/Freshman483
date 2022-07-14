@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Shimita Douglas
 - 👀 I’m interested in learning programming languages such as c++,c#,java,python and web development and if  given by chance more I will be interested in
 - 
-- 🌱 I’m currently learning  Java,python,html 
-- 💞️ I’m looking to collaborate on with any experienced expert or dummy like me so that I can gain what am lacking and if possible both of us, I will  appreciate
+- 🌱 I’m currently learning  Java,python,C++,C# and Javascript
+- 💞️ I’m looking forward to collaborate  with any experienced expert o so that I can gain what am lacking and if possible both of us, I will  appreciate
 - 📫 How to reach me  phone number.+254757450727,email (tranzeer@gmail)
 
 <!---
